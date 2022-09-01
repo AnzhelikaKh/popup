@@ -210,15 +210,14 @@
         margin-right: 15px;
     }
     .item__view__img{
-        width: 30px;
-        height: 30px;
+        width: 40px;
+        height: 40px;
     }
     .btn{
         font-size: 1.2em;
     }
     .checkbox__main:checked ~ .popup__list{
         height: 250px;
-        width: 210px;
+        width: 200px;
     }
-
   }
